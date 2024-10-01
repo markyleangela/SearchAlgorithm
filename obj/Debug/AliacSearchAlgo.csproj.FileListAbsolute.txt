@@ -1,0 +1,9 @@
+C:\Users\Joseph Clyde Mar\Desktop\KYLA\SCHOOL FILES\CS345-F2 Intelligent Systems\Search\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.exe
+C:\Users\Joseph Clyde Mar\Desktop\KYLA\SCHOOL FILES\CS345-F2 Intelligent Systems\Search\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.pdb
+C:\Users\Joseph Clyde Mar\Desktop\KYLA\SCHOOL FILES\CS345-F2 Intelligent Systems\Search\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.AssemblyReference.cache
+C:\Users\Joseph Clyde Mar\Desktop\KYLA\SCHOOL FILES\CS345-F2 Intelligent Systems\Search\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Form1.resources
+C:\Users\Joseph Clyde Mar\Desktop\KYLA\SCHOOL FILES\CS345-F2 Intelligent Systems\Search\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+C:\Users\Joseph Clyde Mar\Desktop\KYLA\SCHOOL FILES\CS345-F2 Intelligent Systems\Search\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+C:\Users\Joseph Clyde Mar\Desktop\KYLA\SCHOOL FILES\CS345-F2 Intelligent Systems\Search\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Clyde Mar\Desktop\KYLA\SCHOOL FILES\CS345-F2 Intelligent Systems\Search\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.exe
+C:\Users\Joseph Clyde Mar\Desktop\KYLA\SCHOOL FILES\CS345-F2 Intelligent Systems\Search\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.pdb
